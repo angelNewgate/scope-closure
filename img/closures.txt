@@ -1,1 +1,0 @@
-un closure es una combinación de una función y un ámbito léxico
