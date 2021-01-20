@@ -1,2 +1,2 @@
 # scope-closure
-asd
+curso de Platzi sobre scope y closures
